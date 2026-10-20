@@ -1,4 +1,4 @@
-## Syaza Hazirah Binti Supeno
+## Syaza Hazirah Binti Supeno, Universiti Teknologi Malaysia
 
 <!--
 **syazahazirah/syazahazirah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
